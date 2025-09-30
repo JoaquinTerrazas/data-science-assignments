@@ -5,19 +5,14 @@ Este repositorio agrupa mis proyectos desarrollados en el curso **Data Science c
 Cada proyecto tiene su propio repositorio independiente.
 
 ---
-
-## 📂 Adquisición y manejo de datos
 - **Web Scraping con Selenium y APIs**  
   Extracción de datos financieros desde páginas web y APIs públicas.  
   🔗 [Repositorio](https://github.com/JoaquinTerrazas/web_scrapping)
 
-- **Raster Data y visualización en Streamlit** *(incluye manejo de datos geoespaciales y dashboards)*  
-  🔗 [Repositorio](https://github.com/JoaquinTerrazas/raster-streamlit)
+- **Raster Data y visualización en Streamlit** 
+  🔗 [Repositorio](https://github.com/JoaquinTerrazas/Minimum-Temperature-Raster)
 
----
-
-## 📊 Visualización y comunicación de datos
-- **Dashboards en Streamlit y gráficas en seaborn** *(ejercicio combinado con análisis geoespacial)*  
+- **Dashboards en Streamlit y gráficas** 
   🔗 [Repositorio](https://github.com/JoaquinTerrazas/Hospitals-Access-Peru)
 
 ---
